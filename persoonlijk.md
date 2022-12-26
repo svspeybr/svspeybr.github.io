@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Welkom!"
+title: "Persoonlijk"
 ---
 
-Hallo, welkom op ... 
+Wat meer over mezelf...
